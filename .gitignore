@@ -1,0 +1,6 @@
+platziverse-db/.nyc_output
+platziverse-db/.vscode
+platziverse-db/coverage
+platziverse-db/node_modules
+platziverse-db/package-lock.json
+

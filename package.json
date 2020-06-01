@@ -1,0 +1,29 @@
+{
+  "name": "rickandmortyapi",
+  "version": "1.0.0",
+  "description": "Aplicacion desarrollada con JavaScript para consultar el API de Rick and Morty de forma asincrónica.",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SoftOnSteroids/rickandmortyapi.git"
+  },
+  "keywords": [
+    "Rick",
+    "Morty",
+    "api",
+    "javascript",
+    "asyncronism"
+  ],
+  "author": "Franco Coloccini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoftOnSteroids/rickandmortyapi/issues"
+  },
+  "homepage": "https://github.com/SoftOnSteroids/rickandmortyapi#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
